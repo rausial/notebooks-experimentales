@@ -1,0 +1,5 @@
+pip install numpy
+pip install scipy
+pip install landsat-util
+pip install ipython[all]
+pip install requests[security]
