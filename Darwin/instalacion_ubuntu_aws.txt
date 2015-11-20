@@ -1,0 +1,60 @@
+    2  pip install -U pip
+    5  sudo pip install virtualenvwrapper
+    7  pip install --user virtualenvwrapper
+    8  pip list
+    9  pip install gdal
+   11  sudo apt-get install git
+   18  pip list
+   25  pip uninstall virtualenvwrapper
+   48  pip install landsat-util
+   49  pip install numpy
+   50  sudo apt-get install build-essential python-dev
+   51  pip install numpy
+   52  pip install landsat-util
+   53  pip install scipy
+   54  sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
+   55  pip install scipy
+   56  pip install landsat-util
+   57  sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
+   58  pip list
+   59  pip uninstall numpy
+   60  sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
+   62  pip install scipy
+   63  pip install numpy
+   64  pip install scipy
+   65  sudo apt-get libatlas-base-dev
+   66  sudo apt-get install libatlas-base-dev
+   67  pip install scipy
+   68  sudo apt-get install gfortran
+   69  pip install scip
+   70  pip install scipy
+   73  pip install scipy
+   74  pip install landsat-util
+   75  sudo apt-get install freetype
+   76  sudo apt-get install libfreetype6-dev
+   77  pip install landsat-util
+   78  sudo apt-get install libfreetype6-dev
+   79  sudo apt-get install libpng-dev
+   80  pip install landsat-util
+   81  pip install matplotlib
+   82  sudo apt-get install libjpeg8-dev
+   83  sudo apt-get install libfreetype6-dev
+   84  pip install matplotlib
+   85  sudo apt-get install libfreetype6-dev
+   86  sudo apt-get install libfreetype6
+   87  sudo apt-get install libfreetype
+   88  sudo apt-get install freetype
+   89* pip install fr
+   90  pip install matplotlib
+   91  sudo apt-get install libxft-dev
+   92  sudo apt-get uninstall libjpeg8-dev
+   93  sudo aptitude purge libjpeg8-dev
+   94  pip install matplotlib
+   95  pip install landsat-util
+   96  sudo apt-get install python-pip python-numpy python-scipy libgdal-dev libatlas-base-dev gfortran libfreetype6-dev
+   97  sudo apt-get update
+   98  sudo apt-get install python-pip python-numpy python-scipy libgdal-dev libatlas-base-dev gfortran libfreetype6-dev
+   99  pip install landsat-util
+  105  cat ~/.bash_history | grep -E "apt-get|pip" 
+  107  history | grep -E "apt-get|pip|aptitude"
+  108  history | grep -E "apt-get|pip|aptitude" > instalacion_ubuntu_aws.txt
